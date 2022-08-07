@@ -22,3 +22,11 @@ $ npx git-cz
 # or
 $ npx git-cz -e
 ```
+
+### Generate New HTML File
+
+You can generate a new HTML file through generator command.
+
+```sh
+$ yarn run generate:html
+```
