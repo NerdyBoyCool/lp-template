@@ -1,9 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const { generateTemplateFiles } = require('generate-template-files')
 
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const config = require('../package.json')
-
 generateTemplateFiles([
   {
     option: 'HTMLファイルの作成',
